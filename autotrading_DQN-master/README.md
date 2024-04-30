@@ -16,4 +16,4 @@ Python 3.6
 **To test the model performance**, run `python run.py --mode test --weights <portfoilo_weights>`, where `<portfoilo_weights>` points to the local model weights file.
 
 # Ref
-The structure of code is mainly inspired by [WJie12].
+The structure of code is mainly inspired by WJie12.
